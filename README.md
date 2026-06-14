@@ -6,30 +6,97 @@ You can click the Preview link to take a look at your changes.
 
 # Hello, I'm Aman Gautam (@Aman4G) 👋
 
-I'm a Backend Engineer with a strong interest in Java, SpringBoot, and Microservices. I enjoy solving complex problems and building efficient, scalable backend systems.
+Backend Engineer with 5 years of experience building scalable, secure, and high-performance Java/Spring Boot microservices for fintech, payment gateway, and digital wallet platforms.
+
+Experienced in distributed systems, REST APIs, tokenization, RBAC/security architecture, transaction processing, and enterprise backend services handling high-volume transactions across ANZ, EMEA, and global fintech ecosystems.
+
+---
 
 ## About Me
 
-- 💼 I have 3+ years of experience working in Java, SpringBoot, and Microservices.
-- 🌱 Currently, I'm learning AWS, Kafka, and DBMS to expand my skill set.
-- 👨‍💻 I enjoy working with Maven, Microsevices and MongoDB for my projects.
+* 💼 5 years of experience in Java, Spring Boot, Microservices, and Fintech Platforms
+* 🏦 Worked on digital wallets, payment gateways, tokenization systems, and transaction processing platforms
+* ⚙️ Strong focus on scalable backend architecture, system design, resiliency, observability, and production optimization
+* 🚀 Interested in Distributed Systems, Cloud-Native Development, Event-Driven Architecture, and Platform Engineering
+* 🌱 Currently exploring deeper AWS cloud architecture, Kubernetes, Kafka, and AI-assisted engineering workflows
 
-## Skills
+---
 
-- **Languages:** Java
-- **Frameworks:** SpringBoot
-- **Architectures:** Microservices
-- **Tools:** Maven
-- **Databases:** MongoDB, SQL
+## Tech Stack
 
-## Projects
+### Backend & Architecture
 
-- **E-wallet:** Implemented a ewallet using Java and SpringBoot. Used MongoDB as database and Kafka for Notification Service.
+* Java 8+
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* Microservices
+* REST APIs
+* Distributed Systems
+* Event-Driven Architecture
+* JWT / OIDC / HMAC Authentication
+* RBAC & API Security
 
-## Get in Touch
+### Databases & Messaging
 
-- [LinkedIn](linkedin.com/in/aman-gautam-1883a4187)
-- [Email](mailto:aman9gautam@gmail.com)
+* PostgreSQL
+* MongoDB
+* Kafka
+* Redis
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+### Cloud & DevOps
 
+* AWS (EC2, ECS, ECR, S3, IAM, CloudWatch)
+* Docker
+* CI/CD Pipelines
+* Jenkins
+* Maven
+* Git
+
+### Observability & Tools
+
+* Kibana
+* Grafana
+* Swagger/OpenAPI
+* JUnit
+* Mockito
+* WireMock
+* IntelliJ IDEA
+* Linux
+* Postman
+
+---
+
+## Featured Projects
+
+### Secora Digital Wallet Platform
+
+Designed and developed backend microservices for token lifecycle management, wearable onboarding, wallet provisioning, and tokenization flows integrated with Visa VTS and Mastercard MDES.
+
+### RBAC Management Platform
+
+Architected centralized Role-Based Access Control (RBAC) services with secure API-level authorization, JWT validation, and NGINX integration for Admin and OEM platforms.
+
+### NZLinks Payment Processing Platform
+
+Built and optimized transaction processing services handling 1.5M+ transactions/day using ISO8583 and AS2805 standards for AU and NZ banking ecosystems.
+
+### Distributed Event Ledger System
+
+Built a distributed event ledger microservices platform using Java, Spring Boot, Docker, Resilience4j, distributed tracing, observability metrics, and integration testing.
+
+---
+
+## Research & Achievements
+
+* 📄 Published 8 peer-reviewed research papers in IEEE and Springer conferences/journals
+* ⭐ Recognized as Star Performer for delivering critical product releases and production support initiatives
+* 📈 Received out-of-cycle leadership recognition for improving platform architecture and delivery planning
+
+---
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/aman-gautam-1883a4187
+* Email: [aman9gautam@gmail.com](mailto:aman9gautam@gmail.com)
